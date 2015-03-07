@@ -1,8 +1,12 @@
 #前端常用命名
+收集了一些常用的网页元素的英文名称，用于解决给class命名的老大难问题   
+
+持续收集中 
+
 页面头部 header
 页面底部 footer
 
-
+背景 background
 网站图标 logo
 导航条 navbar
 边栏 sidebar
