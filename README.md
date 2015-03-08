@@ -19,5 +19,8 @@
 |进度条  | progress | |
 |角标  | badge | |
 |头像  | avatar | |
+|全屏图片背景区块  | cover | |
+|横幅  | banner | |
+
 
 持续收集中 
