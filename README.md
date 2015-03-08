@@ -19,7 +19,7 @@
 |进度条  | progress | |
 |角标  | badge | |
 |头像  | avatar | |
-|全屏图片背景区块  | cover | |
+|全屏区块  | cover |通常带图片背景 |
 |横幅  | banner | |
 
 
