@@ -17,12 +17,19 @@
 |多图片矩阵  | gallery | |
 |缩略图  | thumbnail | |
 |进度条  | progress | |
-|角标  | badge |❶ 逼死强迫症 |
+|角标  | badge |❶ ←逼死强迫症 |
 |头像  | avatar | |
 |全屏区块  | cover |通常带图片背景 |
 |横幅  | banner | |
 | 媒体  | media |图片，标题，描述，组成的一个整体 |
 |弹出气泡(弹出框)  | popover | |
 |模态窗口  | modal |页面内模拟出来的弹窗 |
+|下拉菜单  |dropdown |  |
+| 图标 | icon |  |
+| 按钮 | button |  |
+| 分页 | pagination | |
+| 标签 | label |  |
+| 滑块按钮 |switch/toggle |  |
+| 菜单 | menu |  |
 
 持续收集中 
