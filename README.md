@@ -17,7 +17,7 @@
 |多图片矩阵  | gallery | |
 |缩略图  | thumbnail | |
 |进度条  | progress | |
-|角标  | badge | |
+|角标  | badge |❶ 逼死强迫症 |
 |头像  | avatar | |
 |全屏区块  | cover |通常带图片背景 |
 |横幅  | banner | |
